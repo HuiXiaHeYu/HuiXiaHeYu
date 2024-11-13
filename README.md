@@ -31,6 +31,6 @@ TypeScript enthusiast, Python user, Deep Learning & Vue beginner
 ## 请我喝杯咖啡
 
 <p align = "center">    
-<img  src="./images/Coffee-QR-code.png" width="400" />
+<img  src="./images/Coffee-QR-code.png" width="200" />
 </p>
 
