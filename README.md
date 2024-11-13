@@ -30,4 +30,4 @@ TypeScript enthusiast, Python user, Deep Learning & Vue beginner
 
 ## 请我喝杯咖啡
 
-<img src="./docs/.vuepress/public/images/Coffee-QR-code.png" style="zoom: 33%;" />
+<img src="./images/Coffee-QR-code.png" style="zoom: 33%;" />
